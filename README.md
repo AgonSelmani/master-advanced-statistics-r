@@ -6,5 +6,5 @@ This repository contains statistical modeling projects implemented in R. Detaile
 
 ## Projects Included
 
-*   **One-Way ANOVA:** A statistical test to compare the means of two or more independent groups based on a single categorical factor.
 *   **Two-Way ANOVA with Repeated Measures:** A test evaluating the effects of two factors and their interaction, where one factor involves repeated measurements on the same subjects over time (within-subject).
+*   **Monte Carlo Simulation (Block Bootstrap):** Using historical data and resampling techniques to estimate financial risk and the loss of purchasing power due to inflation over time.
